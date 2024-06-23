@@ -61,11 +61,11 @@ O diagrama de classe do aplicativo pode ser visualizado no link abaixo:
 
 ## Prints das Telas
 Tela Principal
-<img src="[screenshots/tela_principal.png](https://drive.google.com/file/d/1s9NecbKjDY-z5il2EjWfL5yFe3NNxnJH/view?usp=sharing)" alt="Tela Principal" width="400"/>
+<img src="data:image/png;base64,{base64_image_1}" alt="Tela Principal" width="400"/>
 Tela de Detalhes do Livro
-<img src="[screenshots/tela_detalhes_livro.png](https://drive.google.com/file/d/18uSMRUyh0JokP2PU8Bfpll-KBeuJ6y2l/view?usp=sharing)" alt="Tela de Detalhes do Livro" width="400"/>
+<img src="data:image/png;base64,{base64_image_2}" alt="Tela Detalhes Livro" width="400"/>
 Tela de Favoritos
-<img src="[screenshots/tela_favoritos.png](https://drive.google.com/file/d/1sVQrguAYcYGZVMFjTyDm52qfE1xmimvm/view?usp=sharing)" alt="Tela de Favoritos" width="400"/>
+<img src="data:image/png;base64,{base64_image_3}" alt="Tela de Favoritos" width="400"/>
 
 
 ## Funcionamento do Sistema
