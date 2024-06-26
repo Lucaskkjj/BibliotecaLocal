@@ -1,8 +1,8 @@
-# CulturaLocal
+# BibliotecaLocal
 
 ## Descrição
 
-O Cultura Local App é um aplicativo Java desenvolvido para disponibilizar livros nacionais gratuitos ao público. Com uma interface amigável, os usuários podem explorar uma vasta coleção de livros, promovendo a leitura e o acesso à cultura literária brasileira. O aplicativo está integrado a um banco de dados que armazena e gerencia os livros, proporcionando uma experiência de uso eficiente e prática.
+O Biblioteca Local App é um aplicativo Java desenvolvido para disponibilizar a venda de livros nacionais com o intuito de tornar eles mais acessível e com maior visibilidade para o povo brasileiro. Com uma interface amigável, os usuários podem explorar uma vasta coleção de livros, promovendo a leitura e o acesso à cultura literária brasileira. O aplicativo está integrado a um banco de dados que armazena e gerencia os livros, proporcionando uma experiência de uso eficiente e prática.
 
 ## Dependências
 
